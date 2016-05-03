@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 
+  payment_id: 1
+  billed_date: 2016-04-29
+  cost: 
+  taxes: 
+  status: false
+
+two:
+  customer_id: 
+  payment_id: 1
+  billed_date: 2016-04-29
+  cost: 
+  taxes: 
+  status: false

@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 1
+  citizen_no: 1
+  full_name: MyString
+  birthdate: 2016-04-29
+  place_of_birth: MyString
+  mother_name: MyString
+  father_name: MyString
+  district: 1
+
+two:
+  customer_id: 1
+  citizen_no: 1
+  full_name: MyString
+  birthdate: 2016-04-29
+  place_of_birth: MyString
+  mother_name: MyString
+  father_name: MyString
+  district: 1

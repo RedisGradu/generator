@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  identity_id: 1
+  register_date: 2016-04-29
+  status: 
+  closing_date: 2016-04-29
+
+two:
+  identity_id: 1
+  register_date: 2016-04-29
+  status: 
+  closing_date: 2016-04-29
